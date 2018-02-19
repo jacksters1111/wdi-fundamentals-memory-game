@@ -1,1 +1,8 @@
-# wdi-fundamentals-memory-game
+# Concentration
+Concentration, also known as Match Match, Memory, Pelmanism, Shinkei-suijaku, Pexeso or simply Pairs, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards.
+![concentration](https://user-images.githubusercontent.com/33438947/36358470-c085ea94-14c3-11e8-8452-e81c878727c1.png)
+
+# Technologies Used
+* HTML
+* CSS
+* Javascript

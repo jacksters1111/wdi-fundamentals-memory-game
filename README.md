@@ -6,3 +6,6 @@ Concentration, also known as Match Match, Memory, Pelmanism, Shinkei-suijaku, Pe
 * HTML
 * CSS
 * Javascript
+
+# Getting Started
+![link](https://jacksters1111.github.io/wdi-fundamentals-memory-game/)
